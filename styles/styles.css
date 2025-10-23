@@ -10,10 +10,16 @@ body {
     text-decoration: underline;
 }
 
-.makeTextLarge {
+.fontSizeLarge {
     font-size: large;
 }
 
-.makeTextLarger {
+.fontSizeLarger {
     font-size: larger;
+}
+.imageResizer {
+    width: 700px;
+    height: 350px;
+    position: relative;
+    left: 300px;
 }
