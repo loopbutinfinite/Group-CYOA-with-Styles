@@ -11,9 +11,9 @@ body {
 }
 
 .makeTextLarge {
-
+    font-size: large;
 }
 
 .makeTextLarger {
-
+    font-size: larger;
 }
