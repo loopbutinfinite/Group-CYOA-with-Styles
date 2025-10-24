@@ -20,6 +20,8 @@ body {
 .imageResizer {
     width: 700px;
     height: 350px;
-    position: relative;
-    left: 500px;
+}
+.imageCentering {
+    display: flex;
+    justify-content: center;
 }
